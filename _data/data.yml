@@ -59,6 +59,14 @@ education:
       university: Sonoma State University
       time: 2017 - 2019
       details: |
+        OD experience with a over 250 hours of professional practice in different
+        industries, e.g. startup, doctors offices and NGOs. 
+          - Bullet point
+          - Bullet point
+    - degree: BA in Psychology & German Cultural Studies
+      university: Sonoma State University
+      time: 2015 - 2017
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -66,9 +74,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BA in Psychology & German Cultural Studies
-      university: Sonoma State University
-      time: 2005 - 2017
+    - degree: AAT in Social and Behavioral Sciences
+      university: College of Marin
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
