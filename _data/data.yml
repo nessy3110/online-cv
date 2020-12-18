@@ -134,13 +134,13 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Duolingo Language Ambassador
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Year 2020 Support Group
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
