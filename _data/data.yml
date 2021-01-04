@@ -85,6 +85,7 @@ education:
     - degree: Abitur
       university: Fürstenberg-Gymnasium, Donaueschingen
       time: 2001 - 2010
+
 experiences:
     - role: German Language Teacher and Instructional Support (Part-time)
       time: June 2020 - Present
@@ -147,14 +148,12 @@ publications:
     intro: |
       Publications through my studies at Sonoma State University.
     papers:
-      - title: Effective OD Interventions: How OD Practitioners Engage the Cultures
-               or Organizations with a Multinational Presence 
+      - title: '"Effective OD Interventions": How OD Practitioners Engage the Cultures or Organizations with a Multinational Presence'
         link: "#"
         authors: Vanessa Huebner
         conference: Culminating Paper Presentation, Sonoma State University, 2019
 
-      - title: "Parental Leave” — Or The Lack Thereof. A comparison between Germany and the U.S.
-        Interdisciplinary research: Psychology and German Cultural Studies
+      - title: '"Parental Leave” — Or The Lack Thereof. A comparison between Germany and the U.S. Interdisciplinary research: Psychology and German Cultural Studies'
         link: "#"
         authors: Vanessa Huebner
         conference: "California Polytechnic State University, San Luis Obispo, CA, 2017"
