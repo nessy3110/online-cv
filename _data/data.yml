@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Native
+        level: Fluent
 
       - idiom: French
         level: Professional
@@ -64,132 +64,100 @@ education:
       university: Sonoma State University
       time: 2017 - 2019
       details: |
-        OD experience with a over 250 hours of professional practice in different
-        industries with medium sized companies, e.g. startup, doctors offices and NGOs.
-        As an Organization Development (OD) Practitioner I help teams and individuals 
-        become more effective and efficient. Past projects included facilitation of 
-        change management, role clarity work sessions, strategic planning, workflow 
-        processes, improving soft skills such as communication skills, giving and 
-        receiving feedback, conflict resolution, as well as coaching. By entering 
-        a 50/50 partnership with the clients, they are able to learn with the process 
-        and implement the change they need.
-          - Bullet point
-          - Bullet point
-    - degree: B.A. in Psychology & German Cultural Studies
+        Studied OD methodologies. Received practical experience through the 
+        requirement of 180 Professional Practice hours with a variety of 
+        small to medium-sized companies to improve efficiency and effectiveness 
+        in their socio-technical systems. Entering a 50/50 partnership allowed 
+        the clients to learn from the process and implement the changes they needed.
+        
+        Industries: orthodontist and dental offices, high-end structural design 
+        company, non-profits, technology start-ups, Women of AT&T, individual leaders.
+
+    - degree: B.A. in Psychology & Special Major in German Cultural Studies
       university: Sonoma State University
       time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Double major in Psychology and German Cultural Studies, which included a 
+        thesis and internship at a German day care center in San Francisco.
     - degree: A.A.T. in Psychology & A.A. in Behavioral Sciences
       university: College of Marin
       time: 2013 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: Abitur
       university: Fürstenberg-Gymnasium, Donaueschingen
       time: 2001 - 2010
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
+    - role: German Language Teacher and Instructional Support (Part-time)
+      time: June 2020 - Present
+      company: German Language School of the North Bay, Novato, CA
+      details: |
+        The school offers Saturday morning German language classes for children and adults.
+          - Providing technical and instructional support for teachers
+          - Teaching 6-week courses (beginner & advanced language levels)
+          - Facilitating cultural events: St. Martin, Nikolaus, Weihnachten
     - role: Facilitator and Leadership Coach
-      time: 2015 - Present
+      time: 2018 - Present
       company: Numina, San Anselmo, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: German Language Teacher and Virtual Event Host
-      time: June 2020 - Present
-      company: German Language School of the Northbay, Novato, CA
+        Numina provides one-on-one coaching for executive management and a platform 
+        for peer coaching that supports leaders & teams in developing awareness, 
+        confidence, connection, and power.
+          - Co-facilitation YPO Forums for chapters in San Francisco
+          - Facilitating team cohesiveness & mutual empowerment
+          - Holding leadership training
+          - Partnering with HR professionals to increase retention 
+          - Teaching how to inquire, empathize, support & challenge others
+          - Content creation for the coaching app Numina
+    - role: Organization Development Consultant
+      time: 2017 - Present
+      company: Self-Employed, San Francisco Bay Area, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: German Language Tutor
-      time: 2012 - 2019
+        Facilitation of:
+          - Change management consulting
+          - Strategic planning, rebranding & people strategies
+          - Workflow processes to increase efficiency  
+          - Soft skills, communication skills & conflict resolution
+          - Training of interactive and creative experiences to solve problems
+          - Leadership coaching/development to grow workplace satisfaction 
+          - Graphic recording to connect with the audience visually 
+    - role: Instructional Student Assistant, German
+      time: 2016 - 2019
       company: Sonoma State University, Rohnert Park, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Duolingo Language Ambassador
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Year 2020 Support Group
-        link: "#hook"
-        tagline: "A support group for anyone to support, connect, grow and learn with and from each other."
+          - Co-created and held weekly class sessions (15-40 students)
+          - Tutored small groups and one-on-one sessions in German
+          - Taught cultural awareness and language development
+          - Prepared and supported students for their move to study abroad  in Germany/Austria/Switzerland
 
-      - title: Language
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+projects:
+    title: Volunteer Projects
+    intro: >
+      My contribution to give back to the community and apply what I have learned in a meaningful way.
+    assignments:
+      - title: MeetUp 2020 Support Group
+        link: "#hook"
+        tagline: "Facilitating a weekly support group for anyone to connect, grow, and learn with and from each other."
 
       - title: Duolingo Language Ambassador
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Selected to host language events for German language learners"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications through my studies at Sonoma State University.
     papers:
       - title: Effective OD Interventions: How OD Practitioners Engage the Cultures
                or Organizations with a Multinational Presence 
         link: "#"
         authors: Vanessa Huebner
-        conference: Commulative Celebrations, 2019
+        conference: Culminating Paper Presentation, Sonoma State University, 2019
 
-      - title: "Parental Leave Policies"
+      - title: "Parental Leave” — Or The Lack Thereof. A comparison between Germany and the U.S.
+        Interdisciplinary research: Psychology and German Cultural Studies
         link: "#"
         authors: Vanessa Huebner
-        conference: "California Polytechnical University, San Luis Obispo, CA, USA,(2017)"
+        conference: "California Polytechnic State University, San Luis Obispo, CA, 2017"
 
 
 skills:
