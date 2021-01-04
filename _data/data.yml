@@ -13,14 +13,14 @@ sidebar:
 
     # Sidebar links
     email: huebner.vanessa@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    phone: +1 415 302 6119
+    website: nessy3110.github.io #do not add http://
     linkedin: vanessa-huebner
-    github: sharu725
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,7 +42,7 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Dancing
         link:
 
       - item: Drawing
@@ -96,7 +96,7 @@ experiences:
           - Teaching 6-week courses (beginner & advanced language levels)
           - Facilitating cultural events: St. Martin, Nikolaus, Weihnachten
     - role: Facilitator and Leadership Coach
-      time: 2018 - Present
+      time: September 2018 - Present
       company: Numina, San Anselmo, CA
       details: |
         Numina provides one-on-one coaching for executive management and a platform 
@@ -109,7 +109,7 @@ experiences:
           - Teaching how to inquire, empathize, support & challenge others
           - Content creation for the coaching app Numina
     - role: Organization Development Consultant
-      time: 2017 - Present
+      time: August 2017 - Present
       company: Self-Employed, San Francisco Bay Area, CA
       details: |
         Facilitation of:
@@ -121,7 +121,7 @@ experiences:
           - Leadership coaching/development to grow workplace satisfaction 
           - Graphic recording to connect with the audience visually 
     - role: Instructional Student Assistant, German
-      time: 2016 - 2019
+      time: September 2016 - May 2019
       company: Sonoma State University, Rohnert Park, CA
       details: |
           - Co-created and held weekly class sessions (15-40 students)
@@ -181,5 +181,3 @@ skills:
       - name: Graphic Recording
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
