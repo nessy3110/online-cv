@@ -1,6 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
-#
+#git 
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -135,11 +135,11 @@ projects:
       My contribution to give back to the community and apply what I have learned in a meaningful way.
     assignments:
       - title: MeetUp 2020 Support Group
-        link: "#hook"
+        link:
         tagline: "Facilitating a weekly support group for anyone to connect, grow, and learn with and from each other."
 
       - title: Duolingo Language Ambassador
-        link: "#"
+        link:
         tagline: "Selected to host language events for German language learners"
 
 
@@ -149,12 +149,12 @@ publications:
       Publications through my studies at Sonoma State University.
     papers:
       - title: '"Effective OD Interventions": How OD Practitioners Engage the Cultures or Organizations with a Multinational Presence'
-        link: "#"
+        link:
         authors: Vanessa Huebner
         conference: Culminating Paper Presentation, Sonoma State University, 2019
 
       - title: '"Parental Leave” — Or The Lack Thereof. A comparison between Germany and the U.S. Interdisciplinary research: Psychology and German Cultural Studies'
-        link: "#"
+        link:
         authors: Vanessa Huebner
         conference: "California Polytechnic State University, San Luis Obispo, CA, 2017"
 
