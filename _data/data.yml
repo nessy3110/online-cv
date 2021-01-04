@@ -51,14 +51,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I serve as a facilitator, instructional designer and leadership coach. 
+      While combining a B.A. double major in Psychology and German Cultural 
+      Studies with a M.A. in Organization Development, I have worked with a 
+      variety of industries and leaders on people’s strategy and growing the 
+      capacity for leadership development. My major interests are evaluating 
+      and improving socio-technical systems, foster community, communication, 
+      support and empowerment within multinational teams. 
+
 education:
-    - degree: MA in Organization Development
+    - degree: M.A. in Organization Development
       university: Sonoma State University
       time: 2017 - 2019
       details: |
@@ -73,7 +75,7 @@ education:
         and implement the change they need.
           - Bullet point
           - Bullet point
-    - degree: BA in Psychology & German Cultural Studies
+    - degree: B.A. in Psychology & German Cultural Studies
       university: Sonoma State University
       time: 2015 - 2017
       details: |
@@ -84,7 +86,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: AAT in Psychology and Behavioral Sciences
+    - degree: A.A.T. in Psychology & A.A. in Behavioral Sciences
       university: College of Marin
       time: 2013 - 2015
       details: |
@@ -153,13 +155,13 @@ projects:
     assignments:
       - title: Year 2020 Support Group
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A support group for anyone to support, connect, grow and learn with and from each other."
 
-      - title: DevStudio
+      - title: Language
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Duolingo Language Ambassador
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
@@ -178,42 +180,39 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Effective OD Interventions: How OD Practitioners Engage the Cultures
+               or Organizations with a Multinational Presence 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Vanessa Huebner
+        conference: Commulative Celebrations, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Parental Leave Policies"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Vanessa Huebner
+        conference: "California Polytechnical University, San Luis Obispo, CA, USA,(2017)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Instructional Design
+        level: 96%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Facilitation
+        level: 96%
 
-      - name: Angular
-        level: 98%
+      - name: Listening
+        level: 96%
 
-      - name: HTML5 & CSS
+      - name: Building Trust
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Curiosity
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Graphic Recording
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
