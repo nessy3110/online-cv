@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: huebner.vanessa@gmail.com
     phone: +1 415 302 6119
-    website: nessy3110.github.io #do not add http://
+    website: nessy3110.github.io/online-cv/ #do not add http://
     linkedin: vanessa-huebner
     github:
     telegram: # add your nickname without '@' sign
@@ -146,17 +146,18 @@ projects:
 publications:
     title: Publications
     intro: |
-      Publications through my studies at Sonoma State University.
+      Research papers and public presentations through my studies at Sonoma State University.
     papers:
-      - title: '"Effective OD Interventions": How OD Practitioners Engage the Cultures or Organizations with a Multinational Presence'
+      - title: 'Effective OD Interventions: How OD Practitioners Engage the Cultures of Organizations with a Multinational Presence'
         link:
         authors: Vanessa Huebner
-        conference: Culminating Paper Presentation, Sonoma State University, 2019
+        conference: Culminating Paper Presentation, Sonoma State University, CA, 2019
 
       - title: '"Parental Leave” — Or The Lack Thereof. A comparison between Germany and the U.S. Interdisciplinary research: Psychology and German Cultural Studies'
         link:
         authors: Vanessa Huebner
-        conference: "California Polytechnic State University, San Luis Obispo, CA, 2017"
+        conference: "31st Annual CSU Student Research Competition, California Polytechnic State University, San Luis Obispo, CA, 2017"
+        conference: "SSU Symposium on Research and Creativity, Sonoma State University, CA, 2017"
 
 
 skills:
