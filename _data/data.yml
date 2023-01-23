@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: huebner.vanessa@gmail.com
-    phone: +1 415 302 6119
+    phone: +49 177 288 9693
     website: nessy3110.github.io/online-cv/ #do not add http://
     linkedin: vanessa-huebner
     github:
@@ -38,14 +38,34 @@ sidebar:
       - idiom: Spanish
         level: Intermediate
 
+    certifications:
+      - item: Agile Project Management: Scrum Master
+        link:
+
+      - item: ITIL 4
+        link:
+
+      - item: Design Thinking
+        link:
+
+      - item: Power Presentation Program by Daniel Fendt Business Academy
+        link:
+
+      - item: Sales Accelerator Bootcamp by Daniel Fendt Business Academy
+        link:
+
+      - item: Agile Organization Development by Bernd Oesterreich & Claudia Schroeder
+      
+      
+      
     interests:
       - item: Hiking
         link:
 
-      - item: Dancing
+      - item: Travelling
         link:
 
-      - item: Drawing
+      - item: Dancing & Yoga
         link:
 
 career-profile:
@@ -181,21 +201,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Instructional Design
-        level: 96%
-
       - name: Facilitation
-        level: 96%
-
-      - name: Curiosity
-        level: 96%
+        level: 92%
 
       - name: Building Trust
-        level: 95%
+        level: 94%
+
+      - name: Curiosity
+        level: 88%
+
+      - name: Instructional Design
+        level: 80%
 
       - name: Listening
         level: 90%
 
       - name: Graphic Recording
-        level: 70%
+        level: 68%
 
