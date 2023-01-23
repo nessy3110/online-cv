@@ -61,22 +61,22 @@ sidebar:
       
       
     certifications:
-      - item: - Agile Project Management, Scrum Master
+      - item: Agile Project Management, Scrum Master
         link:
 
-      - item: - ITIL4
+      - item: ITIL4
         link:
 
-      - item: - Design Thinking
+      - item: Design Thinking
         link:
         
-      - item: - Power Presentation Program by Daniel Fendt Business Academy
+      - item: Power Presentation Program by Daniel Fendt Business Academy
         link:
 
-      - item: - Sales Accelerator Bootcamp by Daniel Fendt Business Academy
+      - item: Sales Accelerator Bootcamp by Daniel Fendt Business Academy
         link:
 
-      - item: - Agile Organization Development by Bernd Oesterreich & Claudia Schroeder
+      - item: Agile Organization Development by Bernd Oesterreich & Claudia Schroeder
         link:
 
 career-profile:
@@ -134,6 +134,10 @@ experiences:
           - Organizing the virtual office by implementing new tools
           - Strenthening client engagement
           - Supporting 4 workshops each year as energy manager
+    - role: Customer Support Consultant
+      time: Aug 2021 - Jan 2022
+      company: Teleperformance, Lissabon, Portugal
+      details: |      
     - role: German Teacher & Instructional Support
       time: Jun 2020 - Feb 2021
       company: German Language School of the North Bay, Novato, CA
