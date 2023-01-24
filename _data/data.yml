@@ -43,7 +43,7 @@ sidebar:
       - item: Agile Project Management, Scrum Master
         link:
 
-      - item: ITIL 4
+      - item: ITIL 41234
         link:
 
       - item: Design Thinking
@@ -56,26 +56,26 @@ sidebar:
         link:
 
       - item: Agile Organization Development by Bernd Oesterreich & Claudia Schroeder
-      
-         
-    certifications:
-      - item: Agile Project Management, Scrum Master
+        link: 
+
+    interests:
+      - item: Horse Back Riding
         link:
 
-      - item: ITIL4
+      - item: Skiing
         link:
 
-      - item: Design Thinking
-        link:
-        
-      - item: Power Presentation Program by Daniel Fendt Business Academy
+      - item: Traveling
         link:
 
-      - item: Sales Accelerator Bootcamp by Daniel Fendt Business Academy
+      - item: Dancing
         link:
 
-      - item: Agile Organization Development by Bernd Oesterreich & Claudia Schroeder
+      - item: Hiking
         link:
+
+      - item: Yoga
+        link: 
 
 career-profile:
     title: Career Profile
