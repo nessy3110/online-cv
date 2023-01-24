@@ -43,7 +43,7 @@ sidebar:
       - item: Agile Project Management, Scrum Master
         link:
 
-      - item: ITIL 41234
+      - item: ITIL 4
         link:
 
       - item: Design Thinking
@@ -59,22 +59,22 @@ sidebar:
         link: 
 
     interests:
-      - item: Horse Back Riding
-        link:
-
-      - item: Skiing
-        link:
-
       - item: Traveling
-        link:
-
-      - item: Dancing
         link:
 
       - item: Hiking
         link:
 
+      - item: Dancing
+        link:
+
       - item: Yoga
+        link:
+
+      - item: Painting
+        link:
+
+      - item: 
         link: 
 
 career-profile:
