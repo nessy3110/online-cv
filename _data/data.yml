@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vanessa Huebner
-    tagline: Organization Development Consultant
+    tagline: Organization Development Consultant / Scrum Master / Agile Coach
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,7 +40,10 @@ sidebar:
         
 
     certifications:
-      - item: Agile Project Management, Scrum Master
+      - item: Present: PRINCE2 ® 7 Foundation & Practitioner 
+        link:
+
+        - item: Agile Project Management, Scrum Master I, Scrum Master II, PSPO
         link:
 
       - item: ITIL 4
